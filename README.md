@@ -17,7 +17,7 @@ go get github.com/faasflow/goflow
 ## Write First Flow
 > Library to Build Flow `github.com/faasflow/goflow/flow`
 
-[![GoDoc](https://godoc.org/github.com/faasflow/lib/goflow?status.svg)](https://godoc.org/github.com/faasflow/lib/goflow)
+[![GoDoc](https://godoc.org/github.com/faasflow/goflow/flow?status.svg)](https://godoc.org/github.com/faasflow/goflow/flow)
 
 Make a `flow.go` file
 ```go
